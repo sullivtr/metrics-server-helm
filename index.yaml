@@ -13,6 +13,6 @@ entries:
     sources:
     - https://github.com/sullivtr/metrics-server-helm
     urls:
-    - https://sullivtr.github.io/metrics-server-helm/metrics-server-0.0.1.tgz
+    - https://sullivtr.github.io/metrics-server-helm/metrics-server-helm-0.0.1.tgz
     version: 0.0.1
 generated: "2020-12-18T12:02:00.671857755-08:00"
