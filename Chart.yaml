@@ -5,7 +5,7 @@ name: metrics-server
 version: 0.0.1
 keywords:
 - metrics-server
-home: https://github.com/sullivtr/metrics-server
+home: https://github.com/sullivtr/metrics-server-helm
 sources:
-- https://github.com/sullivtr/metrics-server
-deprecated: true
+- https://github.com/sullivtr/metrics-server-helm
+deprecated: false
