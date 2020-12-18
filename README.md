@@ -1,10 +1,10 @@
 # metrics-server
 
-[Metrics Server](https://github.com/sullivtr/metrics-server) is a cluster-wide aggregator of resource usage data. Resource metrics are used by components like `kubectl top` and the [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale) to scale workloads. To autoscale based upon a custom metric, see the [Prometheus Adapter chart](https://github.com/helm/charts/blob/master/stable/prometheus-adapter).
+[Metrics Server](https://github.com/sullivtr/metrics-server-helm) is a cluster-wide aggregator of resource usage data. Resource metrics are used by components like `kubectl top` and the [Horizontal Pod Autoscaler](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale) to scale workloads. To autoscale based upon a custom metric, see the [Prometheus Adapter chart](https://github.com/helm/charts/blob/master/stable/prometheus-adapter).
 
 ## DEPRECATION NOTICE
 
-This repo is a copy of the deprecated chart located here: https://github.com/helm/charts/tree/master/stable/metrics-server. I only plan to passivly maintain this repo in order to maintain this chart's availability to the community. 
+This repo is a copy of the deprecated chart located here: https://github.com/helm/charts/tree/master/stable/metrics-server. I only plan to passively maintain this repo in order to maintain this chart's availability to the community. 
 
 ## Configuration
 
