@@ -3,7 +3,7 @@ entries:
   metrics-server:
   - apiVersion: v1
     appVersion: 0.3.6
-    created: "2020-12-18T11:47:19.763956027-08:00"
+    created: "2020-12-18T11:54:03.80691373-08:00"
     description: Metrics Server is a cluster-wide aggregator of resource usage data.
     digest: bf14d8fbee4580c4051f54bb4aea5fd0311211092b30462d196583e580289385
     home: https://github.com/sullivtr/metrics-server-helm
@@ -15,4 +15,4 @@ entries:
     urls:
     - https://sullivtr.github.io/metrics-server-helm/metrics-server-0.0.1.tgz
     version: 0.0.1
-generated: "2020-12-18T11:47:19.763141257-08:00"
+generated: "2020-12-18T11:54:03.806307268-08:00"
